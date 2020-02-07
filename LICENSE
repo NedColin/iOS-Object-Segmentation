@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2019 Ilya Krotov
+=======
+Copyright (c) 2019 tucan9389
+>>>>>>> 2093623... draw performance
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
